@@ -45,7 +45,7 @@ window.onload = function() {
     "city",
     "mountain"
   ];
-  const points = [".com", ".es", ".net", ".edu", "gob"];
+  const points = [".com", ".es", ".net", ".edu", ".gob"];
 
   for (let i = 0; i < pronoun.length; i++) {
     for (let j = 0; j < adj.length; j++) {
